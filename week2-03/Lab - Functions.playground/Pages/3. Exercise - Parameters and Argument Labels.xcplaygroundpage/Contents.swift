@@ -17,7 +17,7 @@ func multiply(_ x : Double , _ by : Double){
     
     print(x * by)
 }
-multiply(8, 2)
+multiply(8, 2)  //.
 /*:
 [Previous](@previous)  |  page 3 of 6  |  [Next: App Exercise - Progress Updates](@next)
  */
